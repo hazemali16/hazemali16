@@ -1,6 +1,4 @@
-Hi there 👋
-
-👨‍💻 Full-Stack Web Developer | 💼 Freelancer | 🌍 Al Fayyum, Egypt
+Hi there 👋, 👨‍💻 Full-Stack Web Developer | 💼 Freelancer
 
 🔹 Passionate and self-taught web developer with 4 years of experience in HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, Django, and MySQL.
 🔹 Expertise in building responsive and visually appealing websites and web applications.
