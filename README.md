@@ -18,4 +18,6 @@ Hi there 👋, 👨‍💻 Full-Stack Web Developer | 💼 Freelancer
 
 💬 Languages: Arabic (Native), English (Basic)
 
+💼 Upwork Profile: https://www.upwork.com/freelancers/~016d8850fc2725d04f
+
 🌟 Let's work together to bring your web project to life! Contact me for professional and visually engaging web solutions. 💪
