@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**hazemali16/hazemali16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full-Stack Web Developer | 💼 Freelancer | 🌍 Al Fayyum, Egypt
 
-Here are some ideas to get you started:
+🔹 Passionate and self-taught web developer with 4 years of experience in HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, Django, and MySQL.
+🔹 Expertise in building responsive and visually appealing websites and web applications.
+🔹 Skilled in front-end development using HTML, CSS, and JavaScript.
+🔹 Proficient in utilizing frameworks like Tailwind CSS, React, and Next.js to create dynamic and interactive web solutions.
+🔹 Experienced in integrating back-end functionalities using Django and managing MySQL databases.
+🔹 Strong problem-solving skills and attention to detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Seeking freelance opportunities to leverage my skills and deliver high-quality web solutions.
+
+📚 Education: Self-taught web developer.
+
+💬 Languages: Arabic (Native), English (Basic)
+
+🌟 Let's work together to bring your web project to life! Contact me for professional and visually engaging web solutions. 💪
